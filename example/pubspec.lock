@@ -102,6 +102,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.2"
+  scrollable_positioned_list:
+    dependency: transitive
+    description:
+      path: "packages/scrollable_positioned_list"
+      ref: HEAD
+      resolved-ref: aa0c02ff723b0c6548db07405d57c7810f5e288a
+      url: "https://github.com/wat97/flutter.widgets.git"
+    source: git
+    version: "0.3.8"
   scrollable_wat:
     dependency: "direct main"
     description:
@@ -163,6 +172,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.2"
+  visibility_detector:
+    dependency: transitive
+    description:
+      path: "packages/visibility_detector"
+      ref: HEAD
+      resolved-ref: aa0c02ff723b0c6548db07405d57c7810f5e288a
+      url: "https://github.com/wat97/flutter.widgets.git"
+    source: git
+    version: "0.4.0+2"
 sdks:
   dart: ">=2.18.6 <3.0.0"
-  flutter: ">=1.17.0"
+  flutter: ">=3.1.0-0"
